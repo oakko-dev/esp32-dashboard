@@ -1,0 +1,10 @@
+# Real credentials (Wi-Fi, Claude token). Copy secrets.example.h to secrets.h.
+secrets.h
+
+# Build output and editor/OS clutter
+build/
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
+Thumbs.db
